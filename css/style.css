@@ -10,7 +10,7 @@
 header {
     padding: 5px;
     text-align: center;
-    background: #1abc9c;
+    background: #a1cec5;
     color: white;
     height: 120px;
 }
@@ -25,7 +25,7 @@ header h1 {
 header h1,
 h2,
 h3 {
-    color: white;
+    color: black;
 }
 
 section {
@@ -117,6 +117,7 @@ li.dropdown {
     margin-top: 8px;
     vertical-align: middle;
   }
+
   
   /* Responsive layout - makes a two column-layout instead of four columns */
   @media screen and (max-width: 800px) {
